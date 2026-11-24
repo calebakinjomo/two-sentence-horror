@@ -2,6 +2,7 @@
 
 Writes the entry text to $MAKEFUN_OUTPUT_DIR/entry.txt
 (default /output/entry.txt) and prints exactly the same text to stdout.
+The entry is exactly two sentences (220 characters) and is printed verbatim.
 """
 
 import os
